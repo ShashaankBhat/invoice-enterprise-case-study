@@ -1,0 +1,10 @@
+# Compiled Java class files (reference implementations are meant to be
+# compiled locally by the reader, not shipped pre-built)
+*.class
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
